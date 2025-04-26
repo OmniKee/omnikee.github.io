@@ -4,7 +4,7 @@ title = "A KeePass client that runs anywhere"
 
 # The homepage contents
 [extra]
-lead = '<b>OmniKee</b> is a cross-platform <a href="https://keepass.info/">KeePass</a> client built using memory-safe Rust and TypeScript that runs on Windows, Linux, and your web browser. <p><img width="80%" src="./key-art.svg"></p>'
+lead = '<b>OmniKee</b> is a cross-platform <a href="https://keepass.info/">KeePass</a> client built using memory-safe languages that runs on Windows, MacOS, Linux, and your browser. <p><img width="80%" src="./key-art.svg"></p>'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 repo_version = "GitHub project"
