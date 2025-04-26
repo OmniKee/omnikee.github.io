@@ -18,7 +18,7 @@ On the start page of the application, you can pick a KeePass 2.x `.kdbx` file to
 
 Click "Open" to attempt decrypting the database.
 
-<img alt="Welcome Page" src="../getting-started/welcome-page.png" width="100%">
+<img alt="Welcome Page" src="../welcome-page.png" width="100%">
 
 <p></p>
 
@@ -26,4 +26,4 @@ You should now see the database overview page. Select a group in the left panel 
 
 Double-click on an entry to explore more details.
 
-<img alt="Database Overview" src="../getting-started/database-view.png" width="100%">
+<img alt="Database Overview" src="../database-view.png" width="100%">

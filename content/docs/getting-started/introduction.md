@@ -38,4 +38,4 @@ The current version of OmniKee is available via GitHub Releases. A guide to the 
 
 One page summary of how to use OmniKee
 
-<a class="btn btn-primary btn-lg px-4 mb-2" href="../quick-start">Quick Start</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="../quick-start/">Quick Start</a>
